@@ -9,6 +9,8 @@
 
 |Arnav Singh | arnavsingh010 |IIIT-A | IIT2025257|
 
+|Vishva Modh|ViMo018|IIIT Allahabad|
+
 <!-- ADD ABOVE THIS-->
 <!--example |Korvac | Betty |Reyansh College| IIT2024067|>
 
