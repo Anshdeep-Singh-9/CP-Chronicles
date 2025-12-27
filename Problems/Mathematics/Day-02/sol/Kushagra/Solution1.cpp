@@ -23,6 +23,7 @@ Input
 Output
 2
 4
+submission : https://codeforces.com/problemset/submission/1771/355287340
 */
 #include <iostream>
 #include <algorithm>
